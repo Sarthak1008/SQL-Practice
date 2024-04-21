@@ -6,3 +6,5 @@ SQL (Structured Query Language) is a standard programming language used to manag
 One of the key benefits of SQL is that it is highly flexible and can be used with a wide range of database management systems (DBMS), such as MySQL, Oracle, SQL Server, and PostgreSQL. It is also highly scalable, making it ideal for managing large and complex databases.
 
 SQL is used in many different industries, including finance, healthcare, retail, and education, to manage and analyze data. It is a valuable tool for data analysts and developers who need to work with data in a structured and organized way.
+
+![SQL](https://cdn.revealbi.io/wp-content/uploads/2021/08/what-is-stored-procedure.png)
